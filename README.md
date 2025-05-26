@@ -94,6 +94,8 @@ Secrets Manager), Docker, Terraform, ArgoCD, GitHub Actions
 - 🧠 [GitHub](https://github.com/reinelt88)
 - 📧 rey880603@gmail.com
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=reinelt88.reinelt88&left_color=gray&right_color=blue)
+
 ---
 
 > _“Software that scales. Code that lasts. Solutions that matter.”_
