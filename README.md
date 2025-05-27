@@ -2,9 +2,9 @@
   <tr>
     <td>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI coding gif" />
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=reinelt88.reinelt88&left_color=gray&right_color=blue" alt="Profile Views" />
     </td>
     <td>
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=reinelt88.reinelt88&left_color=gray&right_color=blue" alt="Profile Views" />
       <h2>👋 Hi, I'm Reinel</h2>
       <strong>Senior Full Stack & AI Engineer</strong> | Hands-on Backend Leader | Distributed Systems | AWS Expert
       <br /><br />
