@@ -5,8 +5,8 @@
     </td>
     <td>
      <img src="https://visitor-badge.laobi.icu/badge?page_id=reinelt88.reinelt88&left_color=gray&right_color=blue" alt="Profile Views" />
-      <h2>👋 Hi, I'm Reinel</h2>
-      <strong>Senior Full Stack & AI Engineer</strong> | Hands-on Backend Leader | Distributed Systems | AWS Expert
+    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=1000&lines=👋+Hi!+I'm+Reinel.;💻+Senior+Software+Engineer+%7C+Staff-Level+Leader.;⚙️+Node.js+%C2%B7+TypeScript+%C2%B7+Python.;☁️+Cloud+Architectures+%7C+AWS+Expert.;📦+Microservices+%7C+Event-Driven+Systems.;🧠+AI+%26+ML+Integrations" alt="Typing SVG" />
+      Senior Software Engineer | Hands-on Technical Leader (Staff-Level Experience) | Node.js · TypeScript · Python | Scalable Cloud Architectures · AWS Expert · Microservices · Event-Driven Systems | AI & ML Integrations
       <br /><br />
       I'm a senior software engineer with over 15 years of experience designing scalable, cloud-native platforms — from AI-powered crop prediction systems to secure, multi-tenant SaaS applications. I thrive in technical leadership roles where clean architecture, automation, and smart ML integrations make a real difference.
     </td>
