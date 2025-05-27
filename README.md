@@ -96,6 +96,8 @@ Secrets Manager), Docker, Terraform, ArgoCD, GitHub Actions
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=reinelt88.reinelt88&left_color=gray&right_color=blue)
 
+[![Follow on GitHub](https://img.shields.io/github/followers/reinelt88?label=Follow&style=social)](https://github.com/reinelt88)
+
 ---
 
 > _“Software that scales. Code that lasts. Solutions that matter.”_
